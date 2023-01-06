@@ -1,4 +1,4 @@
-<h1 align="center"> Java </h1>
+<h1 align="center"> Apache Camel </h1>
 
 # Content
 
