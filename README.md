@@ -51,3 +51,8 @@ Go to [Spring Initializr](https://start.spring.io/) and select the folowing:
 - **Java**
    - For Spring Boot 2.x -> Java Version 8
    - For Spring Boot 3.x -> Java Version 8
+- **Dependencies**
+   - Spring Boot DevTools -> Fast Application Restart
+   - Spring Web -> To Construct Res APIs
+   - Spring Boot Actuator -> Support Built in Endpoint
+   - Apache Camel -> Integration Framework
