@@ -57,9 +57,10 @@ Go to [Spring Initializr](https://start.spring.io/) and select the following:
    - Spring Boot Actuator -> Support Built in Endpoint
    - Apache Camel -> Integration Framework
 
-
  <br>
 
 <div align="center"><img src="img/springinitializr-w1554-h923.png" width=1554 height=923><br><sub>Fig 1 - Configure Apache Camel in Spring Initializr- (<a href='[https://www.w3schools.blog/spring-boot-architecture-diagram-components](https://github.com/vitorstabile)'>Work by Vitor Garcia</a>) </sub></div>
 
 <br>
+
+Create Another project, but with the artifact name **camel-microservice-b**
