@@ -64,3 +64,20 @@ Go to [Spring Initializr](https://start.spring.io/) and select the following:
 <br>
 
 Create Another project, but with the artifact name **camel-microservice-b**
+
+Unzip the two projects (camel-microservice-a and camel-microservice-b) to a folder of your preference (Ex: myproject), and open the two projects using your IDE of preference. In this case, we will use the IntelliJ.
+
+ <br>
+
+<div align="center"><img src="img/firstproject-w971-h728.png" width=971 height=728><br><sub>Fig 2 - Import Apache Camel Projects (camel-microservice-a and camel-microservice-b) - (<a href='https://github.com/vitorstabile'>Work by Vitor Garcia</a>) </sub></div>
+
+<br>
+
+IntelliJ will load the dependencies automatically when detecting a Maven Project. After all dependencies is download, try to run the CamelMicroserviceAApplication
+
+ <br>
+
+<div align="center"><img src="img/runproject-w604-h460.png" width=604 height=460><br><sub>Fig 3 - Run Apache Camel Application - (<a href='https://github.com/vitorstabile'>Work by Vitor Garcia</a>) </sub></div>
+
+<br>
+
