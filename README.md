@@ -37,7 +37,7 @@ If the mere mention of ESBs brings back memories of huge, complex deployments, d
 
 #### <a name="chapter2part3"></a>Chapter 2 - Part 3: First Project
 
-Go to [Spring Initializr](https://start.spring.io/) and select the folowing:
+Go to [Spring Initializr](https://start.spring.io/) and select the following:
 
 - **Project**
    - Maven Project
@@ -56,3 +56,10 @@ Go to [Spring Initializr](https://start.spring.io/) and select the folowing:
    - Spring Web -> To Construct Res APIs
    - Spring Boot Actuator -> Support Built in Endpoint
    - Apache Camel -> Integration Framework
+
+
+ <br>
+
+<div align="center"><img src="img/springinitializr-w1554-h923.png" width=1554 height=923><br><sub>Fig 1 - Configure Apache Camel in Spring Initializr- (<a href='[https://www.w3schools.blog/spring-boot-architecture-diagram-components](https://github.com/vitorstabile)'>Work by Vitor Garcia</a>) </sub></div>
+
+<br>
