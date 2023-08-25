@@ -6,10 +6,10 @@
     - [Chapter 1 - Part 1: What is Camel?](#chapter1part1)
     - [Chapter 1 - Part 2: Ab](#chapter1part2)
     - [Chapter 1 - Part 3: Ac](#chapter1part3)
-2. [Chapter 2: B](#chapter2)
+2. [Chapter 2: Knowing Apache Camel](#chapter2)
     - [Chapter 2 - Part 1: Ba](#chapter2part1)
     - [Chapter 2 - Part 2: Bb](#chapter2part2)
-    - [Chapter 2 - Part 3: Bc](#chapter2part3)
+    - [Chapter 2 - Part 3: First Project](#chapter2part3)
 
 ## <a name="chapter1"></a>Chapter 1: Introducing Camel
   
@@ -29,10 +29,25 @@ If the mere mention of ESBs brings back memories of huge, complex deployments, d
 
 #### <a name="chapter1part3"></a>Chapter 1 - Part 1: Ac
 
-## <a name="chapter2"></a>Chapter 2: B
+## <a name="chapter2"></a>Chapter 2: Knowing Apache Camel
   
 #### <a name="chapter2part1"></a>Chapter 2 - Part 1: Ba
 
 #### <a name="chapter2part2"></a>Chapter 2 - Part 2: Bb
 
-#### <a name="chapter2part3"></a>Chapter 2 - Part 3: Bc
+#### <a name="chapter2part3"></a>Chapter 2 - Part 3: First Project
+
+Go to [Spring Initializr](https://start.spring.io/) and select the folowing:
+
+- **Project**
+   - Maven Project
+- **Language**
+   - Java
+- **Spring Boot Version**
+   - For Java Version 8 -> Spring Boot 2.x
+   - For Java Version 17 -> Spring Boot 3.x
+- **Packaging**
+   - Jar
+- **Java**
+   - For Spring Boot 2.x -> Java Version 8
+   - For Spring Boot 3.x -> Java Version 8
