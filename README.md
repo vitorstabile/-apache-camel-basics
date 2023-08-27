@@ -81,3 +81,7 @@ IntelliJ will load the dependencies automatically when detecting a Maven Project
 
 <br>
 
+<div align="center"><img src="img/logsapache-w1847-h660.png" width=1847 height=660><br><sub>Fig 4 - Server Runner - (<a href='https://github.com/vitorstabile'>Work by Vitor Garcia</a>) </sub></div>
+
+<br>
+
